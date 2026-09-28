@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+.idea/
+
+# Scratch & temporary files
+scratch/
+*.log
